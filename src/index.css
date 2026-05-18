@@ -1,10 +1,6 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-
-/* Add this to your src/index.css file after the Tailwind imports */
-
 @import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600;700&family=EB+Garamond:wght@400;500;600;700&display=swap');
+
+@import "tailwindcss";
 
 :root {
   --gryffindor-primary: #740001;
